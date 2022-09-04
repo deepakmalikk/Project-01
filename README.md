@@ -26,4 +26,4 @@
 ---
 
 ## ScreenShot
-![Project-img](./screenShot.png)
+![Project-img](./Readme/screenShot.png)
