@@ -12,9 +12,9 @@
 
 - What I learned from this Project?
   - 
-  - Learned how to use HTML and CSS to create a beutiful website.
-  - Learnd to use css position property.
-  - Learned about z indexing to stack elements on top of each other.
+  - How to use HTML and CSS to create a beutiful website.
+  -  CSS position property.
+  -  Z-index property to stack elements on top of each other.
 
  
 ---
