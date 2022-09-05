@@ -1,4 +1,6 @@
-
+body{
+    overflow-x: hidden;
+}
 
 .navbar-container div>img {
     display: block;
